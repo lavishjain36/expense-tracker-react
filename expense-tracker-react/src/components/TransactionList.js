@@ -7,7 +7,7 @@ export const TransactionList = () => {
       <ul className="list">
         <li>
           Cash <span>-400$</span>
-          <button class="delete-btn">x</button>
+          <button className="delete-btn">x</button>
         </li>
       </ul>
     </>
